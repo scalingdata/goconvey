@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/smartystreets/goconvey/web/server/contract"
-	"github.com/smartystreets/goconvey/web/server/messaging"
+	"github.com/scalingdata/goconvey/web/server/contract"
+	"github.com/scalingdata/goconvey/web/server/messaging"
 )
 
 type HTTPServer struct {
